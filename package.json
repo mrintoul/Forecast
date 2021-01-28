@@ -28,7 +28,7 @@
   "devDependencies": {
     "@vue/cli-service": "4.3.1",
     "babel-eslint": "10.1.0",
-    "electron": "8.3.0",
+    "electron": "9.4.0",
     "eslint": "7.1.0",
     "eslint-config-prettier": "6.11.0",
     "eslint-plugin-import": "2.20.2",
